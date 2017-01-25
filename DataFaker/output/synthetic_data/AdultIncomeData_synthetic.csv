@@ -1,0 +1,11 @@
+,ID,age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,income
+0,9888,29, Self-emp-not-inc,154262, HS-grad,9, Married-civ-spouse, Handlers-cleaners, Not-in-family, White, Male,548,15,40,OkRVvbxUxApPbbASYcYJ, >50K
+1,2097,25, Private,157673, Bachelors,10, Never-married, Adm-clerical, Husband, White, Male,323,52,54,oKGPWdmoVSpxCfrpcxtZ, >50K
+2,5139,33, Private,75345, Masters,9, Married-civ-spouse, ?, Not-in-family, White, Male,589,14,34,CBWWJXhUWKsZLTYplXIp, <=50K
+3,8188,39, Self-emp-not-inc,83263, HS-grad,6, Married-civ-spouse, Prof-specialty, Not-in-family, White, Male,165,12,34,VofoMxAERwlQuhNOImHG, <=50K
+4,17037,42, Private,92278, HS-grad,5, Never-married, Craft-repair, Husband, White, Male,172,35,10,uxosjwIGwIxTlaTuXyiA, <=50K
+5,2280,29, Private,162657, HS-grad,13, Never-married, Other-service, Own-child, White, Male,376,24,45,DasBWbWwYaFkjtIQLlDc, >50K
+6,31190,27, Private,88961, 12th,10, Divorced, Prof-specialty, Husband, White, Male,196,11,35,uoTgIXSWeOWMYRXqXIWo, <=50K
+7,27219,30, Private,147764, Some-college,9, Divorced, Craft-repair, Unmarried, White, Male,489,24,40,SvHDSGKAYaGXUxAgjZka, >50K
+8,17467,56, State-gov,165051, HS-grad,9, Married-civ-spouse, Protective-serv, Not-in-family, White, Female,407,2,5,GWtFNxiZRCllKaecyyJW, <=50K
+9,8638,26, Private,223477, HS-grad,11, Widowed, Other-service, Husband, White, Male,32,13,35,dcsEMlcrOhQjgNGrfPoG, >50K
