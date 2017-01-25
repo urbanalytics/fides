@@ -1,11 +1,11 @@
 ,ID,age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race,sex,capital-gain,capital-loss,hours-per-week,native-country,income
-0,9888,29, Self-emp-not-inc,154262, HS-grad,9, Married-civ-spouse, Handlers-cleaners, Not-in-family, White, Male,548,15,40,OkRVvbxUxApPbbASYcYJ, >50K
-1,2097,25, Private,157673, Bachelors,10, Never-married, Adm-clerical, Husband, White, Male,323,52,54,oKGPWdmoVSpxCfrpcxtZ, >50K
-2,5139,33, Private,75345, Masters,9, Married-civ-spouse, ?, Not-in-family, White, Male,589,14,34,CBWWJXhUWKsZLTYplXIp, <=50K
-3,8188,39, Self-emp-not-inc,83263, HS-grad,6, Married-civ-spouse, Prof-specialty, Not-in-family, White, Male,165,12,34,VofoMxAERwlQuhNOImHG, <=50K
-4,17037,42, Private,92278, HS-grad,5, Never-married, Craft-repair, Husband, White, Male,172,35,10,uxosjwIGwIxTlaTuXyiA, <=50K
-5,2280,29, Private,162657, HS-grad,13, Never-married, Other-service, Own-child, White, Male,376,24,45,DasBWbWwYaFkjtIQLlDc, >50K
-6,31190,27, Private,88961, 12th,10, Divorced, Prof-specialty, Husband, White, Male,196,11,35,uoTgIXSWeOWMYRXqXIWo, <=50K
-7,27219,30, Private,147764, Some-college,9, Divorced, Craft-repair, Unmarried, White, Male,489,24,40,SvHDSGKAYaGXUxAgjZka, >50K
-8,17467,56, State-gov,165051, HS-grad,9, Married-civ-spouse, Protective-serv, Not-in-family, White, Female,407,2,5,GWtFNxiZRCllKaecyyJW, <=50K
-9,8638,26, Private,223477, HS-grad,11, Widowed, Other-service, Husband, White, Male,32,13,35,dcsEMlcrOhQjgNGrfPoG, >50K
+0,29518,33, Private,303172, Bachelors,10, Never-married, Sales, Own-child, White, Male,5418,15,16,RmnbJjiZrZRdUnJnSiBw, <=50K
+1,18568,44, Self-emp-not-inc,152725, 10th,12, Married-civ-spouse, Farming-fishing, Unmarried, White, Male,576,35,28,WOJhVtCBDSdxKIDInyZY, <=50K
+2,27064,49,,14808, Bachelors,9, Married-civ-spouse, Tech-support, Husband, White, Female,432,8,44,AHEmZjrJIpRxzYdOEPCJ, >50K
+3,7395,28, Self-emp-not-inc,157437, Assoc-voc,13, Married-civ-spouse, Other-service, Husband, White, Female,467,1753,33,ZdESAwnzumFoCLmlDzZU, <=50K
+4,31329,47,,235808, 9th,9, Never-married, Sales, Other-relative, White, Male,569,2,10,ZhQnqtbEILwsxELJTqis, <=50K
+5,12875,38, Private,236685, HS-grad,9, Never-married, Prof-specialty, Own-child, White, Male,341,34,39,GxgCfvuIYaoLvwQvxpja, <=50K
+6,9743,54, Private,153450, Assoc-voc,13, Married-civ-spouse, Transport-moving, Husband, White, Female,63,5,43,WSfAbYJlOikreDOQSjqq, >50K
+7,15148,35, ?,234345, HS-grad,9, Married-civ-spouse, Sales, Unmarried, White, Female,394,31,59,prGwDIrJjTqgaCbDIfuM, >50K
+8,26565,18, Private,149319, HS-grad,9, Separated, Craft-repair, Husband, White, Female,249,1,21,mQiWuCtkxLOFncBYcgpV, >50K
+9,19452,44,,97171, HS-grad,13, Never-married, Sales, Husband, White, Male,33,36,46,LpOdUPsKZXldrsqytXuL, >50K
