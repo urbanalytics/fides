@@ -96,13 +96,13 @@ The values are sampled from the histograms in dataset description file.
 synthetic_dataset = generator.get_synthetic_data(dataset_description_file, N=10)
 ```
 
-##### Step 3: Random missing on columns
+##### Step 3: Random missing
 
-For example, ramdom missing on column "workclass" with missing rate 0.3
+Random missing proportional to missing rates in dataset description.
 
 
 ```python
-generator.random_missing_on_column(col='workclass', missing=0.3)
+generator.random_missing_on_dataset_as_description()
 ```
 
 ##### Step 4: Save the synthetic dataset

@@ -231,8 +231,9 @@ class SyntheticDataGenerator(object):
     def generate_string_column(self, col=None, column_description=None, N=20):
         self.synthetic_dataset.loc[:,col] = self.synthetic_dataset[col].map(lambda x: self.fake.pystr())
 
-    def random_missing_on_all_data(self, missing=0):
-        for col in self.synthetic_dataset:
+    def random_missing_on_dataset_as_description(self):
+        for col, column_description in self.dataset_description.iterrows():
+            missing = column_description['missing']
             self.random_missing_on_column(col, missing)
 
     def random_missing_on_column(self, col=None, missing=0):
