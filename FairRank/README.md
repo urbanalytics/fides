@@ -26,7 +26,7 @@ testSyntheticExp tests the usage of runSyntheticExp.py.
 
 testUtility tests the usage of utility.py.
 
-Above test scripts include the usage guideline of core code. Can be fitted into new data by changing corresponding paramters.
+Above test scripts include the usage guideline of core code. Can be fitted into new data by changing corresponding parameters.
 
 Real data:
 
